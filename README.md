@@ -1,3 +1,14 @@
+## 🛠 Funcionalidades
+
+- Clones de balões em movimento
+- Dificuldade progressiva com velocidade crescente
+- Efeitos sonoros e música de fundo
+- Variáveis e lista de balões estourados
+- Bloco personalizado com parâmetro numérico
+- Vitória e derrota com tela final
+- Instruções ao iniciar o jogo
+
+
 ## Como abrir o projeto no Scratch
 
 1. Clique em `Estouro-dos-Baloes.sb3` acima e baixe o arquivo.
