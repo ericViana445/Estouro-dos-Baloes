@@ -1,4 +1,4 @@
-## 🛠 Funcionalidades
+## Funcionalidades
 
 - Clones de balões em movimento
 - Dificuldade progressiva com velocidade crescente
